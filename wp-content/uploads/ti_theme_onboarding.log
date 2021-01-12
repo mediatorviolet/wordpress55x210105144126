@@ -1,0 +1,16 @@
+[06/Jan/2021:09:51:07] (I): WordPress Instance Info:
+[06/Jan/2021:09:51:07] (I): Home URL : http://127.0.0.1:8080/eds-modules/wordpress55x210105144126
+[06/Jan/2021:09:51:07] (I): Site URL : http://127.0.0.1:8080/eds-modules/wordpress55x210105144126
+[06/Jan/2021:09:51:07] (I): WordPress Version : 5.5.3
+[06/Jan/2021:09:51:07] (I): Onboarding Version : 1.1.2
+[06/Jan/2021:09:51:07] (I): Multisite : No
+[06/Jan/2021:09:51:07] (I): Server Info : Apache/2.4.25 (Win32) PHP/5.6.30
+[06/Jan/2021:09:51:07] (I): PHP Version : 5.6.30
+[06/Jan/2021:09:51:07] (I): HTTPS : No
+[06/Jan/2021:09:51:07] (I): PHP Max Execution Time : 30
+[06/Jan/2021:09:51:07] (I): PHP Max Input Vars : 1000
+[06/Jan/2021:09:51:07] (I): Max Upload Size : 7340032
+[06/Jan/2021:09:51:07] (I): Plugins:
+[06/Jan/2021:09:51:07] (I): [PLUGIN] Classic Editor : v1.6 (WordPress Contributors)
+[06/Jan/2021:09:51:07] (I): [PLUGIN] Elementor : v3.0.15 (Elementor.com)
+[06/Jan/2021:09:51:07] (I): [PLUGIN] Templates Patterns Collection : v1.1.2 (ThemeIsle)
