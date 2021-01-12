@@ -5,11 +5,11 @@
 # Any changes to the directives between these markers will be overwritten.
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /eds-modules/wordpress55x210105144126/Retravailler/
+RewriteBase /eds-modules/wordpress55x210105144126/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /eds-modules/wordpress55x210105144126/Retravailler/index.php [L]
+RewriteRule . /eds-modules/wordpress55x210105144126/index.php [L]
 </IfModule>
 
 # END WordPress
